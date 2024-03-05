@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyBrowser</string>
+    <string name="aggiungi_sito">Aggiungi Sito</string>
+    <string name="salva">Salva</string>
+    <string name="nome_sito">Nome Sito</string>
+    <string name="url_sito">URL Sito</string>
+</resources>
